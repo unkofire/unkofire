@@ -1,5 +1,5 @@
 -  Heya, I’m @unkofire!
--  I’m interested in creating video games! 
+-  I’m an artist who is interested in creating video games! 
 -  I’m currently learning C#, Unity, and Godot.
 
 <!---
